@@ -1,0 +1,122 @@
+"menu":[
+	{
+		"nombre":"Bolillo",
+		"descripcion":"Pan perfecto para un almuerzo o comerlo junto a un cafe mañanero",
+		"precio":2.50,
+		"imagen":"img/bolillo.png",
+	},
+	{
+		"nombre":"Beso",
+		"descripcion":"Dos panes unidos con mermelada",
+		"precio":5.50,
+		"imagen":"img/beso.png",
+	},
+	{
+		"nombre":"Bigote",
+		"descripcion":"Un cuernito azucarado",
+		"precio":5.50,
+		"imagen":"img/bigote.png",
+	},
+	{
+		"nombre":"Concha",
+		"descripcion":"Pan normalmente cubierto de vainilla o chocolate azucarado",
+		"precio":3.50,
+		"imagen":"img/concha.png"
+	},
+	{
+		"nombre":"Garibaldi",
+		"descripcion":"Panqué de vainilla y pulpa de chabacano",
+		"precio":8.50,
+		"imagen":"img/garibaldi.png"
+	},
+	{
+		"nombre":"Gorditas de nata",
+		"descripcion":"Panecitos de nata dulce",
+		"precio":5.50,
+		"imagen":"gorditasdenata.jpg"
+	},
+	{
+		"nombre":"Gragea o Chilindrina",
+		"descripcion":"Galletas espolvoreadas y coloridas",
+		"precio":4,
+		"imagen":"gragea.jpg"
+	},
+	{
+		"nombre":"Moño",
+		"descripcion":"Pan torcido con azúcar o tal vez salados",
+		"precio":4.50,
+		"imagen":"img/mono.png"
+	},
+	{
+		"nombre":"Ojo de buey",
+		"descripcion":"Panquecito estilo bísquet",
+		"precio":3.50,
+		"imagen":"img/OjoBuey.png"
+	},
+	{
+		"nombre":"Oreja",
+		"descripcion":"Pan de hojaldre azucarado",
+		"precio":2.50,
+		"imagen":"img/Oreja.png"
+	},
+	{
+		"nombre":"Piedra",
+		"descripcion":"Pan duro con chocolate",
+		"precio":3.50,
+		"imagen":"img/piedra.png"
+	},
+	{
+		"nombre":"Puerquito",
+		"descripcion":"Cerdito de canela, si se prepara corectamente tiene un muy buen sabor",
+		"precio":5,
+		"imagen":"img/puerquito.png"
+	},
+	{
+		"nombre":"Rebanada",
+		"descripcion":"Un pedazo de pan con mantequilla y azúcar o queso creema",
+		"precio":6,
+		"imagen":"rebanada.png"
+	},
+	{
+		"nombre":"Rehilete",
+		"descripcion":"Hojaldre y mermelada",
+		"precio":4,
+		"imagen":"img/Rehilete.jpg"
+	},
+	{
+		"nombre":"Panque",
+		"descripcion":"Un pan largo que puede llevar, nuez, pasas o ser simple",
+		"precio":25,
+		"imagen":"img/panque.png"
+	},
+	{
+		"nombre":"Quequito",
+		"descripcion":"Un pan pequeño que puede estar cubierto con chocolate, vainilla o sin nada",
+		"precio":6.50,
+		"imagen":"img/quequito.png"
+	},
+	{
+		"nombre":"Dona",
+		"descripcion":"Con glasdiado de fresa, canela, chocolate o vainilla",
+		"precio":12,
+		"imagen":"img/dona.png"
+	},
+	{
+		"nombre":"Cafe de olla",
+		"descripcion":"Calientito y con sabor a hogar por las mañanas, con leche, crema o solo",
+		"precio":20,
+		"imagen":"img/cafeolla.jpg"
+	},
+	{
+		"nombre":"Cafe de cafetera",
+		"descripcion":"Cafe tostado y recien molido",
+		"precio":20,
+		"imagen":"img/cafetera.jpg"
+	},
+	{
+		"nombre":"Chocolate abuelita",
+		"descripcion":"Perfecto para las mañanas junto a un pan dulce",
+		"precio":15,
+		"imagen":"img/chocolate.jpg"
+	}
+]
